@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1268302011",
+    "firebase_url": "https://smart-door-lock-1769d.firebaseio.com",
+    "project_id": "smart-door-lock-1769d",
+    "storage_bucket": "smart-door-lock-1769d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1268302011:android:5f430cab012b3ddd2da99e",
+        "android_client_info": {
+          "package_name": "com.example.doorlocksystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1268302011-juvpm99rsdge0jc92ejpg83euokeltrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwgDH-IB7gMeUpa2uzHwRYXcUFmr3PAGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1268302011-juvpm99rsdge0jc92ejpg83euokeltrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
